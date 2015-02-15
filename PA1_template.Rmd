@@ -2,7 +2,9 @@
 title: "Reproducible Research - Assignment 1"
 author: "Luke Vicens"
 date: "02/13/2015"
-output: html_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 # Loading and preprocessing the data
